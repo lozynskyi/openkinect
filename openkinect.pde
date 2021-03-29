@@ -1,3 +1,6 @@
+//https://xie-emily.com/projects/sand.html
+//read this before
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
