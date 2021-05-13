@@ -1,5 +1,6 @@
 //https://xie-emily.com/projects/sand.html
 //read this before
+//check Xbox compatible 
 
 import ddf.minim.*;
 import ddf.minim.analysis.*;
